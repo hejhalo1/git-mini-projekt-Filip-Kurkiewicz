@@ -4,12 +4,12 @@
 
 ## Autor
 
-Imię i nazwisko: ........................................
-Klasa / grupa: ..........................................
+Imię i nazwisko: Filip Kurkiewicz
+Klasa / grupa: 4 TP
 
 ## Cel projektu
 
-Napisz własnymi słowami, po co powstał projekt i czego uczysz się podczas pracy z Git oraz GitHub.
+Projekt powstał zeby pocwiczyć operowanie na repozytoriach i połączeniu z githubem
 
 ## Opis projektu
 
@@ -43,4 +43,4 @@ W repozytorium ma być co najmniej 10 commitów. W tym miejscu opisz krótko, co
 
 ## Link do repozytorium
 
-Wklej link do publicznego repozytorium GitHub: ........................................
+Wklej link do publicznego repozytorium GitHub: (https://github.com/hejhalo1/git-mini-projekt-Filip-Kurkiewicz)
