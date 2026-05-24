@@ -1,6 +1,6 @@
 ## Dodatkowy opis do README
 
-Uzupełnij tę sekcję własnymi słowami i wklej ją do głównego pliku `README.md`.
+Cwiczenie gita
 
 ### Czego dotyczy projekt?
 
@@ -8,4 +8,7 @@ Projekt dotyczy ćwiczenia historii zmian, pracy na branchach i publikacji repoz
 
 ### Moje najważniejsze komendy
 
-Wypisz tutaj 5-8 komend Git, których użyto w projekcie, i wyjaśnij każdą jednym zdaniem.
+git init - inicjalizuje nowe repo
+git add . dodaje wszystkie pliki do obszaru staging
+git commit -m "cos tam" zapisuje zmiany
+git branch - pokazuje lub tworzy nowe branche
