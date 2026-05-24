@@ -12,3 +12,4 @@ git init - inicjalizuje nowe repo
 git add . dodaje wszystkie pliki do obszaru staging
 git commit -m "cos tam" zapisuje zmiany
 git branch - pokazuje lub tworzy nowe branche
+git push -u origin branch - wysyla branch na gita
